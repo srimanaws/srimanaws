@@ -1,6 +1,14 @@
 ### Hi there 👋
+I am   devops engineer 
 
-<!--
+ I use daily: .py, .sh, .py, .yml
+
+🌱 Learn all about Open Source
+
+📫 Reach me: srimanselvakumar@gmail.com
+
+
+<!--gmail.com
 **srimanaws/srimanaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
